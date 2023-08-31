@@ -13,7 +13,7 @@ const ImgSlide = () => {
             </SplideSlide>
             <SplideSlide>
                 <img
-                    src="https://www.betrbeta.com/assets/images/image11.jpg?v=8373f6bf"
+                    src="https://t3.ftcdn.net/jpg/03/39/70/90/360_F_339709048_ZITR4wrVsOXCKdjHncdtabSNWpIhiaR7.jpg"
                     alt="Image 1"
                     className="w-full h-full"
                 />
